@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationhesperia.com/sitemap.xml
